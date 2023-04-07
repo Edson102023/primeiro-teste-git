@@ -1,0 +1,91 @@
+.b1 {
+    font-family: "Pippons", sans-serif;
+    padding: o;
+    margin: o;
+    box-sizing: border-box;
+
+}
+
+header {
+    margin: 45px 135px 106px 128px;
+
+
+}
+
+.link-header {
+    font-weight: 400px;
+    font-size: 14 px;
+    Line height: 21px;
+    color: #17233D;
+    cursor: pointer;
+    margin: 32px;
+}
+
+.button-header {
+
+    background: #6FBF44;
+    border-radius: 6px;
+    height: 24px;
+    width: 67px;
+    border: none;
+    Font size: 16px;
+    Line height: 24px;
+    cursor: pointer;
+
+}
+
+.classe {
+    height: 10919px;
+    width: 1440px;
+}
+
+.logo-Image {
+    width: 533.83px;
+    height: 466.9px;
+    margin-left: 182.18px;
+    margin-right: 723.98px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+section {
+    display: inline-block;
+    margin left: 121px;
+}
+
+h1 {
+
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: #161A49;
+    width: 582px;
+    height: 164px;
+
+}
+
+p {
+    Font size: 18px;
+    Line height: 33px;
+    Line height: 122%;
+    width: 493px;
+}
+
+.h3 {
+    Font family: Poppins;
+    Font style: Medium;
+    Font size: 18px;
+    Line height: 27px;
+    
+    Align: Left Vertical;
+    align: Top;
+    background-color: red;
+    color hex : #6FBF44
+   
+
+
+
+
+
+
+}
